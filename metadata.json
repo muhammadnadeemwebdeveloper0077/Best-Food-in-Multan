@@ -1,0 +1,6 @@
+{
+  "name": "Best Food in Multan",
+  "description": "Discover the best restaurants, fast food, and desi cuisine across Multan, Pakistan with verified menus, locations, and direct ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
